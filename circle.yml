@@ -15,4 +15,4 @@ machine:
 ## Customize dependencies
 dependencies:
   pre:
-    - npm install -g gulp cordova ionic # install from a different package manager
+    - npm install gulp cordova ionic # install from a different package manager
